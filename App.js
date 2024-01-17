@@ -167,7 +167,7 @@ const styles = StyleSheet.create({
     paddingVertical: 12,
     paddingHorizontal: 16,
     borderBottomWidth: 1,
-    borderBottomColor: '#c75afa',
+    borderBottomColor: '#333',
     flexDirection: 'row',
     justifyContent: 'space-between',
     alignItems: 'center',
